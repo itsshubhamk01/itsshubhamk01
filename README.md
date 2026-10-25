@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Shubham Kadam</h1>
+<h1>👋 <b>Hi, I'm Shubham Kadam</b></h1>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=760&height=38&lines=Java+Developer+%7C+Spring+Boot;Building+REST+APIs+and+backend+services;Enterprise+applications+%7C+Workflow+automation;Always+learning%2C+building%2C+improving." alt="Animated introduction: Java Developer, Spring Boot, REST APIs, and backend services"/>
