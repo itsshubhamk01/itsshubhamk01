@@ -1,86 +1,99 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shubham%20Kadam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Associate%20at%20Pidilite%20Industries&descAlignY=55&descSize=18&descColor=cfe8ff" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2C9DF4&center=true&vCenter=true&width=650&lines=Associate+%7C+Projects+Dept.+%40+Pidilite+Industries;Java+%2B+Spring+Boot+Backend+Developer;Building+REST+APIs+%26+Enterprise+Applications;AWS+Certified+%7C+Full+Stack+Java+Developer;Always+exploring+Microservices+%26+System+Design" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=itsshubhamk01&label=Profile%20Views&color=2C9DF4&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fitsshubhamk01&label=Public%20Repos&query=public_repos&color=2C9DF4&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fitsshubhamk01&label=Followers&query=followers&color=2C9DF4&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/> </div> <br/>
-👋 About Me
-🔭 Currently working on Enterprise Java & Spring Boot applications, LMS platforms, and workflow automation at Pidilite Industries Limited
-🌱 Currently deepening Microservices architecture, Docker, AWS, and backend system design
-👯 Looking to collaborate on Java, Spring Boot, Microservices, and AI-powered applications
-🤝 Looking for help with scaling backend systems and enterprise AI integration
-💬 Ask me about Java, Spring Boot, REST APIs, Hibernate, SQL, JWT, and React.js
-📍 Based in Mumbai, India
-📫 Reach me at itsshubhamk01@gmail.com
-📄 Check out my resume and my full portfolio
-⚡ Fun fact: I enjoy solving coding challenges and turning complex problems into practical software solutions
-<br/>
-🛠️ Tech Stack
-
-Languages
-
-Show Image Show Image Show Image Show Image
-
-Backend & Frameworks
-
-Show Image Show Image Show Image Show Image
-
-Frontend
-
-Show Image Show Image Show Image Show Image
-
-Database
-
-Show Image Show Image
-
-Microsoft Ecosystem
-
-Show Image Show Image Show Image
-
-Cloud, DevOps & Tools
-
-Show Image Show Image Show Image Show Image Show Image
-
-<br/>
-📜 Certifications
-
-Show Image Show Image
-
-<br/>
-🚀 Featured Projects
-<table> <tr> <td width="100%">
-
-🧠 AI Video Checklist Validation System · Pidilite Industries (Enterprise)
-
-An AI-driven system that automates checklist validation from video using computer vision, speech, and OCR, cutting down manual review effort.
-
-YOLOv8 Whisper Tesseract OCR Ollama / Llama 3 Spring Boot React Docker Compose
-
-</td> </tr> <tr> <td width="100%">
-
-📚 AI-Powered Learning Management System (LMS)
-
-A full-stack LMS enabling course delivery, tracking, and content management, with AI-assisted features layered on top of a Java/Spring Boot backend.
-
-Java Spring Boot React MySQL
-
-</td> </tr> <tr> <td width="100%">
-
-📦 Inventory & Order Management System
-
-An enterprise-style application for tracking inventory and managing the order lifecycle end-to-end, built around REST APIs and relational data.
-
-Java Spring Boot REST APIs MySQL
-
-</td> </tr> </table> <div align="center">
-
-View All Projects
-
-</div> <br/>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=itsshubhamk01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/> <img src="https://streak-stats.demolab.com/?user=itsshubhamk01&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshubhamk01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshubhamk01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/> </div>
-🏆 Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itsshubhamk01&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies"/> </div> <br/>
-🤝 Connect With Me
 <div align="center">
 
-LinkedIn Instagram HackerRank LeetCode Gmail Portfolio Resume
+👋 Hey, I'm Shubham Kadam
+Java Developer · Spring Boot · REST APIs · Backend Engineering
+I build backend services, enterprise applications, and workflow automation solutions.
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Thanks%20for%20visiting%21&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+
+
+
+
+
+</div>
+
+🧑‍💻 About Me
+- 💼 Currently working as an Associate Project Engineer at Pidilite Industries Limited.
+- ☕ Focused on Java, Spring Boot, REST APIs, Hibernate, and SQL.
+- 🏗️ Interested in backend engineering, enterprise applications, and workflow automation.
+- 🌱 Currently learning more about microservices, Docker, AWS, and backend system design.
+- 🤝 Open to collaborating on Java, Spring Boot, microservices, and AI-powered applications.
+- 💬 Ask me about Java, Spring Boot, REST APIs, Hibernate, SQL, JWT, and React.js.
+- 🌐 Explore my work: Portfolio website
+🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,react,html,css,bootstrap,mysql,postgres,mongodb,aws,docker,git,github,postman,linux,python&perline=9" alt="Technology stack: Java, Spring, Hibernate, JavaScript, React, HTML, CSS, Bootstrap, MySQL, PostgreSQL, MongoDB, AWS, Docker, Git, GitHub, Postman, Linux, Python" />
+</p>
+
+Core areas
+- Backend: Java, Spring Boot, Spring MVC, Hibernate, REST APIs, JWT
+- Frontend: React.js, JavaScript, HTML, CSS, Bootstrap
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools & Platforms: Git, GitHub, Postman, AWS, Docker, Linux
+📌 Featured Work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <p>A personal portfolio showcasing my background, skills, and work.</p>
+      <a href="https://itsshubhamk01.github.io/shubham-codecraft-folio/">View portfolio ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 GitHub Repositories</h3>
+      <p>Browse my public repositories to explore projects, experiments, and source code.</p>
+      <a href="https://github.com/itsshubhamk01?tab=repositories">Explore repositories ↗</a>
+    </td>
+  </tr>
+</table>
+
+📊 GitHub Analytics
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsshubhamk01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics for itsshubhamk01" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshubhamk01&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most-used languages for itsshubhamk01" />
+
+</div>
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshubhamk01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for itsshubhamk01" />
+
+</div>
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsshubhamk01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph for itsshubhamk01" />
+
+</div>
+
+<div align="center">
+
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsshubhamk01&theme=tokyonight" alt="GitHub profile contribution summary for itsshubhamk01" />
+
+</div>
+
+Note: These analytics are rendered by third-party services and may occasionally be unavailable or rate-limited. Language cards reflect code in public repositories and may not represent overall skill level. GitHub's own contribution calendar remains the source of truth for contribution activity.
+
+🏆 Achievements & Profile
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=itsshubhamk01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub profile trophies" />
+
+</div>
+
+- 📈 Repository count and stars: View the live totals on my GitHub profile and starred repositories.
+- 🔥 Contribution streak and activity: See the cards and contribution graph above.
+🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/shubham-t-kadam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/itsshubhamk01"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.leetcode.com/itsshubhamk01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://instagram.com/mrshubham_kadam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:itsshubhamk01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<div align="center">
+
+💡 “Build useful things, keep learning, and improve every day.”
+⭐ If something here interests you, feel free to explore my repositories or connect with me.
+</div>
