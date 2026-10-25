@@ -109,20 +109,6 @@ Explore Repositories ↗
 
 </div>
 
-📌 GitHub Overview
-<div align="center">
-
-<a href="https://ghstats.dev/api/profile?username=itsshubhamk01&type=contributions&theme=dark&style=github">
-  <img src="https://ghstats.dev/api/profile?username=itsshubhamk01&type=contributions&theme=dark&style=github" width="96%" alt="Live GitHub contribution overview for itsshubhamk01"/>
-</a>
-
-
-<a href="https://github.com/itsshubhamk01?tab=repositories">Repositories</a>
-  •  
-<a href="https://github.com/itsshubhamk01?tab=stars">Stars</a>
-  •  
-<a href="https://github.com/itsshubhamk01?tab=activity">Activity</a>
-</div>
 
 🌐 Connect With Me
 <div align="center">
