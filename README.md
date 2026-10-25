@@ -1,86 +1,148 @@
 <div align="center">
 
-👋 Hi, I'm Shubham Kadam
-Java Developer · Spring Boot · Backend Engineering
+<h1>👋 Hi, I'm Shubham Kadam</h1>
 
-Building REST APIs, backend services, and practical software solutions.
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=0969DA&center=true&vCenter=true&width=760&height=38&lines=Java+Developer+%7C+Spring+Boot;Building+REST+APIs+and+backend+services;Enterprise+applications+%7C+Workflow+automation;Always+learning%2C+building%2C+improving." alt="Animated introduction: Java Developer, Spring Boot, REST APIs, and backend services"/>
+</a>
 
-<a href="https://itsshubhamk01.github.io/shubham-codecraft-folio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/shubham-t-kadam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:itsshubhamk01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=800&color=6F42C1&center=true&vCenter=true&width=700&height=35&lines=Java+%26+Spring+Boot;REST+APIs+%7C+Backend+Services;Enterprise+Applications+%7C+Automation" alt="Animated typing text"/>
+<p>
+  <a href="https://itsshubhamk01.github.io/shubham-codecraft-folio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/itsshubhamk01"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/shubham-t-kadam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:itsshubhamk01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=itsshubhamk01&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/itsshubhamk01?label=Followers&style=flat-square&logo=github" alt="GitHub followers"/>
 
 </div>
 
 👨‍💻 About Me
-- 💼 Associate Project Engineer at Pidilite Industries Limited
+I'm a Java Developer from India who enjoys building backend services, enterprise applications, REST APIs, and workflow automation solutions.
+- 💼 Currently working as an Associate Project Engineer at Pidilite Industries Limited
 - ☕ Focused on Java, Spring Boot, REST APIs, Hibernate, and SQL
-- 🌱 Exploring microservices, Docker, AWS, and backend system design
-- 🤝 Open to collaborating on Java and backend projects
-- 🌐 View my portfolio
-🧰 Tech Stack
+- 🚀 Exploring microservices, Docker, AWS, and backend system design
+- 🤝 Interested in collaborating on Java, Spring Boot, microservices, and AI-powered applications
+- 💬 Ask me about Java, Spring Boot, REST APIs, Hibernate, SQL, JWT, and React.js
+- 🌐 Explore my work: Portfolio website
+🛠️ Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,postgres,mongodb,aws,docker,git,github,postman&perline=7" alt="Java, Spring, JavaScript, React, HTML, CSS, MySQL, PostgreSQL, MongoDB, AWS, Docker, Git, GitHub, Postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,bootstrap,mysql,postgres,mongodb,nodejs,python&perline=7" alt="Java, Spring, JavaScript, TypeScript, React, HTML, CSS, Bootstrap, MySQL, PostgreSQL, MongoDB, Node.js, and Python"/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,firebase,linux,selenium,figma&perline=9" alt="AWS, Docker, Git, GitHub, Postman, Firebase, Linux, Selenium, and Figma"/>
 
 </div>
 
-🚀 Featured Work
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🌐 Portfolio
-My personal portfolio featuring my profile, skills, and work.
-
-Visit portfolio →
-</td>
-<td width="50%" valign="top">
-
-💻 GitHub Projects
-Explore my public repositories, source code, and development work.
-
-Browse repositories →
-</td>
-</tr>
-</table>
-
-📊 GitHub Stats
+📊 GitHub Analytics
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsshubhamk01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="100%" alt="GitHub statistics"/>
+<img src="https://ghstats.dev/api/card?username=itsshubhamk01&theme=midnight&show_icons=true&hide_border=true" width="100%" alt="GitHub analytics including public repositories, stars, contributions, and activity"/>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshubhamk01&layout=compact&hide_border=true&langs_count=6&theme=transparent" width="100%" alt="Top programming languages"/>
+<img src="https://ghstats.dev/api/card?username=itsshubhamk01&type=languages&theme=midnight&layout=donut&max_langs=8&hide_border=true" width="100%" alt="Programming languages from Shubham's public GitHub repositories"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=itsshubhamk01&hide_border=true&theme=transparent" width="90%" alt="GitHub contribution streak"/>
+<img src="https://ghstats.dev/api/profile?username=itsshubhamk01&type=profile&theme=dark&style=github" width="96%" alt="GitHub profile overview with live repository and activity information"/>
 
 </div>
+
+Analytics cards are generated by an external service from public GitHub data. Like any hosted widget, they may occasionally be delayed or unavailable. The cards update independently of this README.
 
 📈 Contribution Activity
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshubhamk01&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://ghchart.xqsit94.in/dark:6366f1/itsshubhamk01" width="98%" alt="Shubham's GitHub contribution activity calendar"/>
+
+
+<a href="https://github.com/itsshubhamk01">
+  <img src="https://img.shields.io/badge/VIEW-GitHub%20Contribution%20Activity-24292f?style=for-the-badge&logo=github&logoColor=white" alt="View full GitHub contribution activity"/>
+</a>
 
 </div>
 
-🤝 Connect
+🏆 GitHub Achievements
 <div align="center">
 
-<a href="https://linkedin.com/in/shubham-t-kadam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.hackerrank.com/itsshubhamk01"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://www.leetcode.com/itsshubhamk01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="mailto:itsshubhamk01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/itsshubhamk01">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile%20%26%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile and achievements"/>
+</a>
+<a href="https://www.hackerrank.com/itsshubhamk01">
+  <img src="https://img.shields.io/badge/HackerRank-Open%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile"/>
+</a>
+<a href="https://www.leetcode.com/itsshubhamk01">
+  <img src="https://img.shields.io/badge/LeetCode-Open%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+</a>
 
-Let's build something useful.
+</div>
+
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🌐 CodeCraft Folio
+A personal portfolio presenting my developer profile, skills, and work.
+
+Open Portfolio ↗
+</td>
+<td width="50%" valign="top">
+
+💻 Public GitHub Repositories
+Browse my public source code, projects, experiments, and ongoing development work.
+
+Explore Repositories ↗
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/itsshubhamk01?tab=stars">
+  <img src="https://img.shields.io/badge/⭐-Explore%20Starred%20Projects-6f42c1?style=for-the-badge" alt="Explore starred projects"/>
+</a>
+
+</div>
+
+📌 GitHub Overview
+<div align="center">
+
+<a href="https://ghstats.dev/api/profile?username=itsshubhamk01&type=contributions&theme=dark&style=github">
+  <img src="https://ghstats.dev/api/profile?username=itsshubhamk01&type=contributions&theme=dark&style=github" width="96%" alt="Live GitHub contribution overview for itsshubhamk01"/>
+</a>
+
+
+<a href="https://github.com/itsshubhamk01?tab=repositories">Repositories</a>
+  •  
+<a href="https://github.com/itsshubhamk01?tab=stars">Stars</a>
+  •  
+<a href="https://github.com/itsshubhamk01?tab=activity">Activity</a>
+</div>
+
+🌐 Connect With Me
+<div align="center">
+
+<a href="https://linkedin.com/in/shubham-t-kadam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38" alt="LinkedIn"/></a>
+  
+<a href="https://instagram.com/mrshubham_kadam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38" alt="Instagram"/></a>
+  
+<a href="https://www.hackerrank.com/itsshubhamk01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="38" alt="HackerRank"/></a>
+  
+<a href="https://www.leetcode.com/itsshubhamk01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="38" alt="LeetCode"/></a>
+
+
+
+Let's build something interesting.
+
+<sub>Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.</sub>
 </div>
