@@ -55,6 +55,22 @@ I'm a Java Developer from India, currently working as an Associate Project Engin
   </picture>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/lifetime.light.svg" />
+    <img src="./assets/lifetime.dark.svg" alt="Lifetime contribution history by year" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/composition.light.svg" />
+    <img src="./assets/composition.dark.svg" alt="Contribution composition across commits, pull requests, issues, reviews, and private contributions when enabled" width="100%" />
+  </picture>
+</div>
+
 04 — Commit Activity & Engineering Rhythm
 <div align="center">
   <picture>
@@ -64,13 +80,25 @@ I'm a Java Developer from India, currently working as an Associate Project Engin
   </picture>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/rhythm.light.svg" />
+    <img src="./assets/rhythm.dark.svg" alt="Contribution rhythm by weekday and month" width="100%" />
+  </picture>
+</div>
+
 05 — Featured Work
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Java & Spring Boot</h3>
-      <p>Explore my public Java repositories and backend-focused work, including projects built around APIs, persistence, and service architecture.</p>
-      <a href="https://github.com/itsshubhamk01?tab=repositories&amp;language=java"><img src="https://img.shields.io/badge/Explore_Java_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Java repositories" /></a>
+      <h3>✈️ Flight Booking Platform</h3>
+      <p><strong>Featured Java project</strong> built with Spring Boot microservices, Spring Cloud Gateway, Netflix Eureka, JWT authentication, React, and MySQL. The project README reports a 28% improvement in API response time.</p>
+      <p>
+        <a href="https://github.com/itsshubhamk01/flight-booking-platform"><img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Flight Booking Platform" /></a>
+        <img src="https://img.shields.io/badge/Java-Spring_Boot-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java and Spring Boot" />
+        <img src="https://img.shields.io/badge/Microservices-2563EB?style=flat-square" alt="Microservices" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Developer Portfolio</h3>
@@ -85,6 +113,14 @@ I'm a Java Developer from India, currently working as an Associate Project Engin
     <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/repositories.light.svg" />
     <img src="./assets/repositories.dark.svg" alt="Public repositories ranked by contribution activity, with language and star details" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio.light.svg" />
+    <img src="./assets/portfolio.dark.svg" alt="Portfolio timeline of public source repositories, languages, commits, and licenses" width="100%" />
   </picture>
 </div>
 
