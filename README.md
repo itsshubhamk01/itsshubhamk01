@@ -42,11 +42,6 @@ I'm a Java Developer from India who enjoys building backend services, enterprise
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://ghstats.dev/api/card?username=itsshubhamk01&theme=midnight&show_icons=true&hide_border=true" width="100%" alt="GitHub analytics including public repositories, stars, contributions, and activity"/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
 <img src="https://ghstats.dev/api/card?username=itsshubhamk01&type=languages&theme=midnight&layout=donut&max_langs=8&hide_border=true" width="100%" alt="Programming languages from Shubham's public GitHub repositories"/>
 
 </td>
